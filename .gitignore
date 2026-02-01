@@ -1,0 +1,16 @@
+# Cursor skills (stored in separate repo)
+.cursor/skills/
+
+# Sensitive configuration (may contain API keys)
+instance-config.json
+
+# IDE settings
+.cursor/
+!.cursor/rules/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
